@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/WebRTCAndroid.iml" filepath="$PROJECT_DIR$/WebRTCAndroid.iml" />
+      <module fileurl="file://$PROJECT_DIR$/WebRTCAndroid-master.iml" filepath="$PROJECT_DIR$/WebRTCAndroid-master.iml" group="WebRTCAndroid-master" />
+      <module fileurl="file://$PROJECT_DIR$/app/WebRTCAndroid-master-app.iml" filepath="$PROJECT_DIR$/app/WebRTCAndroid-master-app.iml" group="WebRTCAndroid-master/app" />
+      <module fileurl="file://$PROJECT_DIR$/webrtc/WebRTCAndroid-master-webrtc.iml" filepath="$PROJECT_DIR$/webrtc/WebRTCAndroid-master-webrtc.iml" group="WebRTCAndroid-master/webrtc" />
+      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/webrtc/webrtc.iml" filepath="$PROJECT_DIR$/webrtc/webrtc.iml" />
+    </modules>
+  </component>
+</project>
